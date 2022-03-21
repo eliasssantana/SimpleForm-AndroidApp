@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         btn.setOnClickListener {
             if(etNome.text.isNotBlank()){
                 title.text = getString(R.string.say_hello, etNome.text.toString())
+                etNome.text.clear()
             }else{
                 etNome.error = getString(R.string.error_message)
             }
