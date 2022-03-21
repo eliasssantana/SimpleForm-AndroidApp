@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primeiros Passos em Android</string>
+    <string name="result">Resultado</string>
+    <string name="insert_your_name">Insira seu nome...</string>
+    <string name="send">Enviar</string>
+    <string name="error_message">Digite um nome, por favor!</string>
+    <string name="say_hello">Olá, %1$s!</string>
+</resources>

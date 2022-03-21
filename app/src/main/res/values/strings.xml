@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First Steps in  Android</string>
+    <string name="result">Android \\o/</string>
+    <string name="insert_your_name">Insert your name…</string>
+    <string name="send">Send</string>
+    <string name="error_message">Insert a name, please!</string>
+    <string name="say_hello">Hello, %1$s!</string>
+</resources>
