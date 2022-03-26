@@ -9,4 +9,9 @@
     <string name="result2">Resultado</string>
     <string name="send_to_result_screen">Enviar para Tela de Resultado</string>
     <string name="abrir_tela_para_exibir_resultado">Abrir tela para receber resultado</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="cancel">Cancelar</string>
+    <string name="screen_canceled">Tela cancelada</string>
+    <string name="data_received">Dados recebidos: %1$s</string>
 </resources>

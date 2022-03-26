@@ -18,4 +18,9 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="send_to_result_screen">Send to Result screen</string>
     <string name="abrir_tela_para_exibir_resultado">Open screen to display result</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="cancel">Cancel</string>
+    <string name="screen_canceled">Screen canceled</string>
+    <string name="data_received">Data received: %1$s"</string>
 </resources>
