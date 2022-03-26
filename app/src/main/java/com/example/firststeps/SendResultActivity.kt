@@ -26,7 +26,6 @@ class SendResultActivity : AppCompatActivity() {
 
         btCancel.setOnClickListener{
             setResult(Activity.RESULT_CANCELED)
-
             finish()
         }
     }
