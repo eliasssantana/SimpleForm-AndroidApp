@@ -6,4 +6,6 @@
     <string name="send">Enviar</string>
     <string name="error_message">Digite um nome, por favor!</string>
     <string name="say_hello">Olá, %1$s!</string>
+    <string name="result2">Resultado</string>
+    <string name="send_to_result_screen">Enviar para Tela de Resultado</string>
 </resources>
