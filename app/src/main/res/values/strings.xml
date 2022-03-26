@@ -17,4 +17,5 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="send_to_result_screen">Send to Result screen</string>
+    <string name="abrir_tela_para_exibir_resultado">Open screen to display result</string>
 </resources>

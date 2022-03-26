@@ -8,4 +8,5 @@
     <string name="say_hello">Olá, %1$s!</string>
     <string name="result2">Resultado</string>
     <string name="send_to_result_screen">Enviar para Tela de Resultado</string>
+    <string name="abrir_tela_para_exibir_resultado">Abrir tela para receber resultado</string>
 </resources>
